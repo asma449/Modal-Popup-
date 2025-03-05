@@ -24,4 +24,6 @@ Clicking outside the popup (on the overlay).
 Smooth transitions ensure a better user experience.
 
 
+![popup](https://github.com/user-attachments/assets/6e7eb937-1a81-474a-9375-cb356b6d5579)
+
 
