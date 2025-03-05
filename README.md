@@ -22,4 +22,6 @@ Users can close the popup by:
 Clicking the close icon (×).
 Clicking outside the popup (on the overlay).
 Smooth transitions ensure a better user experience.
-Feel free to customize the popup's design and content to match your project needs!
+
+
+
